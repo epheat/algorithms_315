@@ -1,11 +1,5 @@
-//
-//  main.cpp
-//  CS315Homework8-bonus
-//
-//  Created by Evan Heaton on 11/27/15.
-//  Copyright © 2015 Evan Heaton. All rights reserved.
-//
-//
+// Evan Heaton
+// CS315 Homework 8
 
 #include <iostream>
 #include <vector>
